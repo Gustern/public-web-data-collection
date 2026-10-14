@@ -70,6 +70,15 @@ structured datasets in CSV and Excel.
 
 [View project →](./project004/)
 
+## Portfolio Samples
+
+One-page PDF summaries of the four projects, including their objectives, sample data, results, tools, and demonstrated skills.
+
+- [Project 001 — Web Data Collection](project001/project001_sample.pdf)
+- [Project 002 — Book Data Collection & Analysis](project002/project002_sample.pdf)
+- [Project 003 — Job Listing Validation](project003/project003_sample.pdf)
+- [Project 004 — Job & Company Data Organization](project004/project004_sample.pdf)
+
 ## Tools & Data Formats
 
 - Python
