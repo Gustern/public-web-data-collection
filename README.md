@@ -72,7 +72,7 @@ structured datasets in CSV and Excel.
 
 ## Portfolio Samples
 
-One-page PDF summaries of the four projects, including their objectives, sample data, results, tools, and demonstrated skills.
+Explore the one-page PDF summaries of the four projects. Each summary presents the project objectives, sample data, results, tools, and demonstrated skills.
 
 - [Project 001 — Web Data Collection](project001/project001_sample.pdf)
 - [Project 002 — Book Data Collection & Analysis](project002/project002_sample.pdf)
